@@ -1,1 +1,1 @@
-# GitHubPythonExercise
+# PythonExercise
