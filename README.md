@@ -1,5 +1,5 @@
-## PythonExercise
-# This code demonstrates the performance comparison between two machine learning algorithms: Logistic Regression and Decision Tree, using the breast cancer dataset. It employs grid search to optimize the hyperparameters of each model and evaluates their performance based on accuracy, precision, recall, f1-score, and confusion matrix. The results indicate that Logistic Regression with penalty = l2 and C = 10 outperforms the Decision Tree with criterion = gini and min_samples_split = 3, achieving a higher accuracy of 96.49%. This experiment highlights the importance of hyperparameter tuning and the potential of Logistic Regression for accurate breast cancer classification.
+# PythonExercise
+This code demonstrates the performance comparison between two machine learning algorithms: Logistic Regression and Decision Tree, using the breast cancer dataset. It employs grid search to optimize the hyperparameters of each model and evaluates their performance based on accuracy, precision, recall, f1-score, and confusion matrix. The results indicate that Logistic Regression with penalty = l2 and C = 10 outperforms the Decision Tree with criterion = gini and min_samples_split = 3, achieving a higher accuracy of 96.49%. This experiment highlights the importance of hyperparameter tuning and the potential of Logistic Regression for accurate breast cancer classification.
 
 Initialization:
 
